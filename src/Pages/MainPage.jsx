@@ -11,7 +11,6 @@ function MainPage() {
       <Snipped />
       <SuperCharge />
       <Footer />
-      <div>MainPage</div>
     </>
   );
 }
